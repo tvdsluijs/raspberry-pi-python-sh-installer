@@ -10,7 +10,7 @@ No real installation needed.
 You can simply run this installer by
 
 ```bash
-wget -O - https://raw.githubusercontent.com/tvdsluijs/raspberry-pi-python-sh-installer/main//python[python_verion].sh | sudo bash
+wget -O - https://raw.githubusercontent.com/tvdsluijs/raspberry-pi-python-sh-installer/main/python[python_verion].sh | sudo bash
 ```
 
 fill in the Python version you want at `[python_verion]`
@@ -18,7 +18,7 @@ fill in the Python version you want at `[python_verion]`
 So, if you want to install version 3.9.3 do:
 
 ```bash
-wget -O - https://raw.githubusercontent.com/tvdsluijs/raspberry-pi-python-sh-installer/main//python3.9.3.sh | sudo bash
+wget -O - https://raw.githubusercontent.com/tvdsluijs/raspberry-pi-python-sh-installer/main/python3.9.3.sh | sudo bash
 ```
 on your Raspberry Pi or Ubuntu Environment.
 
