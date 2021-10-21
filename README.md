@@ -1,3 +1,10 @@
+# Notice!
+*This script is redundant!*
+
+I have created an ultimate Python installer for any version.
+Please go to https://itheo.tech/ultimate-python-installation-on-a-raspberry-pi-ubuntu-script
+
+or the git repo: https://github.com/tvdsluijs/sh-python-installer
 
 # Raspberry Pi / Ubuntu easy Python installer
 
